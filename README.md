@@ -1,2 +1,3 @@
-# projetcours-
-exercice
+# projetcours-Stéphane
+
+Exercice de cours
